@@ -243,7 +243,7 @@ i {
 }
 
 .Games {
-    width: 500px;
+    width: 400px;
     height: 20cm;
     position: relative;
     margin-top: 20px;
@@ -255,7 +255,7 @@ i {
 }
 
 .Games1 {
-    width: 500px;
+    width: 400px;
     height: 20cm;
     position: relative;
     align-self: center;
@@ -265,7 +265,7 @@ i {
     overflow: hidden;
 }
 .Games2 {
-    width: 500px;
+    width: 400px;
     height: 20cm;
     position: relative;
     /* padding-top: 50px; */
@@ -371,7 +371,7 @@ h3 {
 
 }
 .wrap {
-    width: 500px;
+    width: 400px;
     height: 20cm;
     background-image: url(Games/ab1.jfif);
     background-size: cover;
@@ -383,7 +383,7 @@ h3 {
     
 }
 .wrap1 {
-    width: 500px;
+    width: 400px;
     height: 20cm;
     background-image: url(Games/ab2.jfif);
     background-size: cover;
@@ -394,7 +394,7 @@ h3 {
     
 }
 .wrap2 {
-    width: 500px;
+    width: 400px;
     height: 20cm;
     background-image: url(Games/ab3.jfif);
     background-size: cover;
@@ -404,7 +404,7 @@ h3 {
     position: relative;
 }
 .wrap3 {
-    width: 500px;
+    width: 400px;
     height: 20cm;
     background-image: url(Games/ab4.jfif);
     background-size: cover;
@@ -414,7 +414,7 @@ h3 {
     position: relative;
 }
 .wrap4 {
-    width: 500px;
+    width: 400px;
     height: 20cm;
     background-image: url(Games/ab5.jfif);
     background-size: cover;
@@ -455,7 +455,7 @@ h3 {
     background-size: cover;
 }
 .g{
-    width: 500px;
+    width: 400px;
     height: 100%;
     background:none;
     transition: 3s;
@@ -470,7 +470,7 @@ top:100%
 
 }
 .g1{
-    width: 500px;
+    width: 400px;
     height: 100%;
     background:none;
     transition: 3s;
@@ -504,7 +504,7 @@ top:100%
     display:block;
 }
 .g2{
-    width: 500px;
+    width: 400px;
     height: 100%;
     background:none;
     transition: 3s;
